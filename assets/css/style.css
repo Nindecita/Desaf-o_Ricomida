@@ -1,0 +1,76 @@
+
+*{
+
+color: #373a3c;
+}
+
+.navbar{
+background-color: #373a3c !important;
+
+}
+.navbar-brand{
+  font-size: 46px !important;
+}
+
+.letra-cabin{
+font-family: 'cabin', regular;
+}
+
+.img-principal{
+  width: 482px;
+  height: 384px;
+  }
+  
+  .button-header{
+  border: 1px solid #DDDDDD !important;
+  }
+  
+.hr-header{
+  border: 1px solid black;
+  }
+  
+.title-instrucciones{
+text-decoration: underline;
+font-weight: 500;
+}
+
+.cabinregular{
+font-weight: 400;
+font-size: 20PX;
+width: 80%;
+}
+
+.cabinbold{
+font-size: 45px;
+font-weight: 700;
+}
+
+.suscript-rojita{
+height: 534px;
+}
+
+.lobsterr{
+font-family: 'Lobster', cursive;
+}
+
+footer{
+background-color: #373a3c;
+}
+
+
+.title-pizza{
+width: 50%;
+}
+
+
+.button-slide{ 
+position: relative; 
+top:105%; 
+} 
+
+.points{ 
+width:15px !important; 
+height:15px !important; 
+border-radius:100% !important; 
+}
+
