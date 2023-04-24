@@ -74,3 +74,7 @@ height:15px !important;
 border-radius:100% !important; 
 }
 
+.img-carousel{
+  width: 315px;
+  height: 315px;
+}
